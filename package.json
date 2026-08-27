@@ -1,0 +1,27 @@
+{
+  "name": "ivedha-assessment",
+  "version": "1.0.0",
+  "description": "Assessment - iVedha",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chamathfernando/iVedha_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chamathfernando/iVedha_Playwright/issues"
+  },
+  "homepage": "https://github.com/Chamathfernando/iVedha_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0",
+    "allure-playwright": "^3.11.0",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
